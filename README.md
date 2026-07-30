@@ -12,4 +12,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
