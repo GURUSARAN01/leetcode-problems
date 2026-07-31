@@ -25,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
