@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
