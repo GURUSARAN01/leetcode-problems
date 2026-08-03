@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
