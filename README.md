@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0584-find-customer-referee](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
