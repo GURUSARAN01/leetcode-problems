@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
