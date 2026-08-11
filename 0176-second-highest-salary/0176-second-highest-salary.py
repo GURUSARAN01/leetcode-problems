@@ -7,5 +7,5 @@ def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:
     if len(sorted_salaries) < N:
         return pd.DataFrame({"SecondHighestSalary":[None]})
     
-    second_highest = sorted_salaries.iloc[2-1]
+    second_highest = sorted_salaries.iloc[1]
     return pd.DataFrame({"SecondHighestSalary": [second_highest]})
