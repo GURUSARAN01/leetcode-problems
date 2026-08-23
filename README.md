@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0607-sales-person/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
