@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/GURUSARAN01/leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/GURUSARAN01/leetcode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
